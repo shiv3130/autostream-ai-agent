@@ -1,4 +1,3 @@
-<<<<<< HEAD
 # AutoStream AI Agent – Social-to-Lead Conversational Workflow
 
 ## Project Overview
