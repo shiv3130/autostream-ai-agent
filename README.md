@@ -1,3 +1,4 @@
+<<<<<< HEAD
 # AutoStream AI Agent – Social-to-Lead Conversational Workflow
 
 ## Project Overview
@@ -325,3 +326,4 @@ Possible enhancements include:
 * Docker containerization
 * Integration with WhatsApp Business API
 * CRM integration for real lead management
+=======
