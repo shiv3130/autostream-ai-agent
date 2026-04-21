@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+ml_env/
+venv/
+
+# Environment variables
+.env
+
+# Vector DB
+vector_store/
+
+# Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
