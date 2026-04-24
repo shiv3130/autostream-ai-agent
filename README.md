@@ -105,7 +105,7 @@ Follow these steps to run the project locally.
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/shiv3130/autostream-agent.git
+git clone https://github.com/shiv3130/autostream-ai-agent.git
 cd autostream-agent
 ```
 
