@@ -97,6 +97,7 @@ def mock_lead_capture(name, email, platform):
 This simulates sending a qualified lead to a CRM or marketing system.
 
 ---
+The project has been updated to support cross-platform execution across macOS, Linux, and Windows. GPU-specific dependencies were removed, and a clean CPU-based environment was implemented to ensure stability, portability, and ease of setup.
 
 # How to Run the Project Locally
 
