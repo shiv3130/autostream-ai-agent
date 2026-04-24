@@ -106,7 +106,7 @@ Follow these steps to run the project locally.
 
 ```bash
 git clone https://github.com/shiv3130/autostream-ai-agent.git
-cd autostream-agent
+cd autostream-ai-agent
 ```
 
 ---
