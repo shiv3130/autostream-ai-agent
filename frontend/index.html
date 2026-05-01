@@ -266,7 +266,7 @@ async function send() {
     addMessage(text, "user");
     input.value = "";
 
-    const botMsg = addMessage("", "bot");
+    const botMsg = addMessage(data.response, "bot");
 
     const response = await fetch("https://autostream-ai-agent.onrender.com/chat", {
         method: "POST",
